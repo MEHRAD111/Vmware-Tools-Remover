@@ -33,6 +33,9 @@ Type yes to confirm and start the uninstall process.
 ⚠️ Warning
 This script will reboot your system after uninstalling VMware Tools.
 
+![Language](https://img.shields.io/badge/language-Bash-4EAA25)
+
+
 Not suitable if you are using open-vm-tools.
 
 
